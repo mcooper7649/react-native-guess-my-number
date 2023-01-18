@@ -1,5 +1,5 @@
 import { View, Image, StyleSheet, Text } from 'react-native';
-import PrimaryButton from '../components/UI/PrimaryButton';
+import PrimaryButton from '/Users/mcooper/Documents/GitHub/react-native-guess-the-number/components/UI/PrimaryButton.js';
 import Title from '../components/UI/Title';
 import Colors from '../constants/colors';
 
