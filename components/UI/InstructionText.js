@@ -1,7 +1,7 @@
 import { Text, StyleSheet } from 'react-native';
 import Colors from '../../constants/colors';
 function InstructionText({ children, style }) {
-  return <Text style={[styles.instructionText, style]}>Enter a Number</Text>;
+  return <Text style={[styles.instructionText, style]}>{children}</Text>;
 }
 export default InstructionText;
 
